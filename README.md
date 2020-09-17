@@ -1,14 +1,6 @@
-# Learning Management System - Group 8
+# Learning Management System 
 
-## Team
 
-* Karan Bhaveshbhai Kharecha, B00849014
-
-* Raviteja Kase, B00823644
-
-* Sharan Sudhir, B00833694
-
-* Ujwal Vikas Chanda, B00848764
 
 
 ## Deployment
